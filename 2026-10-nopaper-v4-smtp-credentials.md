@@ -31,7 +31,6 @@ Operators of NoPaper V4 should confirm they run the fixed version and rotate any
 - 2026-10-22: Exposure observed on one municipal installation while browsing its public procedure catalogue. The credential was not used or stored.
 - 2026-10-22: Reported to the municipality, the vendor and CERT.PT (CNCS).
 - 2026-10-22: Vendor confirmed the fix for the reporting municipality and all other affected customers.
-- 2026-10-23: CERT.PT acknowledged the report.
 - 2026-10-23: Advisory published, after the fix was confirmed for all affected customers.
 
 ## Method
